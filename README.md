@@ -1,8 +1,5 @@
 ### Hi there 👋
 
-<!--
-**AnswerTjiane/answertjiane** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 * This is a springboot application developed with JDK 17
@@ -11,4 +8,3 @@ Here are some ideas to get you started:
 * after the application has started, navigate to http://localhost:8080/swagger-ui/index.html on your browser
 * APIs can be called directly on swagger-ui
 * Please refer to data.sql for test data to test the application
--->
